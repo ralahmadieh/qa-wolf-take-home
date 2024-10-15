@@ -1,0 +1,19 @@
+{
+  "name": "qa_wolf_take_home",
+  "version": "1.0.0",
+  "description": "A take-home project for QA Wolf to automate the scraping of articles from a website and testing using Jest.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Rawan Alahmadieh",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "playwright": "^1.48.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.8.9",
+    "jest": "^29.7.0"
+  }
+}
