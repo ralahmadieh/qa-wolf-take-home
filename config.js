@@ -6,6 +6,6 @@ class Config {
   }
 }
 
-const global_config = new Config("https://news.ycombinator.com", 100);
+const global_config = new Config("https://news.ycombinator.com/newest", 100);
 
 module.exports = { global_config };
