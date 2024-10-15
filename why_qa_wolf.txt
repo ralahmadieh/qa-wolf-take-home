@@ -1,1 +1,3 @@
-why_qa_wolf.txt
+Here is my video submission: https://www.loom.com/share/7ccbe5ca71904e37bcdcfba9bc1428fa?sid=b6b0e47a-59fc-4fd5-b8cc-5c50867605a2
+
+Here is my github repo: https://github.com/ralahmadieh/qa-wolf-take-home 
